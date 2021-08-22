@@ -1,2 +1,2 @@
 # LS8PyCalc
-Python code with GUI to estimate LST and NDVI using LANDSAT-8 images
+Standalone application developed with GUI under Python development environment to estimate LST and NDVI using LANDSAT-8 images
